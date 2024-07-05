@@ -16,13 +16,13 @@ In This Project, I made two basic applicatations:
 -This Application allows you to add and delete Task you want.
   What I used!
   
-  -I made html pages to add the tasks, Index.html and layout.html( this contains the basic layout that add.html and index.html inherits)
+ -I made html pages to add the tasks, Index.html and layout.html( this contains the basic layout that add.html and index.html inherits)
       
-  -a static css files inherited to use the defined css in all the files.
+ -a static css files inherited to use the defined css in all the files.
       
-  -**Implemented sessions** to create multiple sessions for multiple users.
+ -**Implemented sessions** to create multiple sessions for multiple users.
       
-  -**Added CSRF Authentication** for both Server Side and Client Side Verification.
+ -**Added CSRF Authentication** for both Server Side and Client Side Verification.
 
 How to use!
 
