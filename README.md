@@ -29,4 +29,6 @@ How to use!
 
 -> Make sure Django and Python are installed correctly on your System.
 
--> Run "python manage.py runserver" to run the app .
+-> Clone this Repository on your Local System using "git clone https://github.com/AishwaryJain07/Django_Apps.git"
+
+-> In the Bash (on windows) / Terminal (on Linux), Browse the folder containing this cloned Repository and Run "python manage.py runserver" to run the app .
