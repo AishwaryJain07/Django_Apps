@@ -32,3 +32,7 @@ How to use!
 -> Clone this Repository on your Local System using "git clone https://github.com/AishwaryJain07/Django_Apps.git"
 
 -> In the Bash (on windows) / Terminal (on Linux), Browse the folder containing this cloned Repository and Run "python manage.py runserver" to run the app .
+
+-> In case you find issues in saving the Tasks, Try to run "python manage.py clearsessions" to r=delete the cached data.
+
+-> Go on and Add your Tasks Happily and Achieve Them.
