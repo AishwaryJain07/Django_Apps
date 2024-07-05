@@ -14,6 +14,7 @@ In This Project, I made two basic applicatations:
 
 2: Task List.
 -This Application allows you to add and delete Task you want.
+
   What I used!
   
  -I made html pages to add the tasks, Index.html and layout.html( this contains the basic layout that add.html and index.html inherits)
