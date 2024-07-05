@@ -27,6 +27,6 @@ In This Project, I made two basic applicatations:
 
 How to use!
 
-:Make sure Django and Python are installed correctly on your System.
+-> Make sure Django and Python are installed correctly on your System.
 
-:Run "python manage.py runserver" to run the app .
+-> Run "python manage.py runserver" to run the app .
