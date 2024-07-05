@@ -18,5 +18,7 @@ In This Project, I made two basic applicatations:
       -**Added CSRF Authentication** for both Server Side and Client Side Verification.
 
 How to use!
+
 :Make sure Django and Python are installed correctly on your System.
+
 :Run "python manage.py runserver" to run the app .
